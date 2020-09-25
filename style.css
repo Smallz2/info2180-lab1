@@ -10,10 +10,20 @@ h2 {
 	color: #5A67D8;
 }
 
-
 /* ---------------------------- */
 
 
 p	{
 	font-size: 18px;
+}
+
+.text-muted {
+	font-weight: bold;
+	font-size: 14px;
+	color: #848484;
+}
+
+
+.image-section {
+	margin-top: 50px;
 }
